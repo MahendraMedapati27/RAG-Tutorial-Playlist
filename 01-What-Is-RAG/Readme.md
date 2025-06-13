@@ -2,9 +2,9 @@
 
 ## Complete 32-Video Tutorial Series on Retrieval-Augmented Generation
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](YOUR_CHANNEL_LINK)
-[![Medium Articles](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](YOUR_MEDIUM_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@tech_with_mahendra?si=Lpytevfnu1dLDtRz)
+[![Medium Articles](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@mahendramedapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahendra-medapati-429239289/)
 
 > Transform from a complete RAG beginner to building advanced agentic systems that can reason, plan, and make decisions.
 
@@ -25,7 +25,7 @@ This comprehensive series takes you on a journey from understanding what RAG is 
 
 ## 📹 Video #1: What is RAG? The Complete Beginner's Guide
 
-### 🎥 [Watch Video](YOUR_VIDEO_LINK) | 📖 [Read Medium Article](YOUR_MEDIUM_LINK)
+### 🎥 [Watch Video](https://youtu.be/xhjnnz-GtTA?si=MikbYDFisfqYS9Nu) | 📖 [Read Medium Article](https://medium.com/towards-artificial-intelligence/rag-the-revolutionary-ai-technique-thats-changing-everything-766b6fcaa37a)
 
 ### Why Your AI Assistant Can't Access Your Latest Documents (And How RAG Fixes This)
 
