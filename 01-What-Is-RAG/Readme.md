@@ -241,8 +241,8 @@ The answers to these questions will guide your RAG journey and help you identify
    ```
 
 2. **Watch Video #1:**
-   - 🎥 [YouTube Video](YOUR_VIDEO_LINK)
-   - 📖 [Medium Article](YOUR_MEDIUM_LINK)
+   - 🎥 [YouTube Video](https://youtu.be/xhjnnz-GtTA?si=MikbYDFisfqYS9Nu)
+   - 📖 [Medium Article](https://medium.com/towards-artificial-intelligence/rag-the-revolutionary-ai-technique-thats-changing-everything-766b6fcaa37a)
 
 3. **Think about your use case:**
    - Complete the reflection questions above
@@ -258,17 +258,8 @@ The answers to these questions will guide your RAG journey and help you identify
 ## 🤝 Community & Support
 
 - 💬 **Discord Community:** [Join Here](YOUR_DISCORD_LINK)
-- 🐛 **Issues & Questions:** [GitHub Issues](https://github.com/yourusername/rag-mastery-series/issues)
-- 📧 **Direct Contact:** [your.email@domain.com](mailto:your.email@domain.com)
-
----
-
-## 📚 Additional Resources
-
-- 📖 **Research Papers:** [papers/](./resources/papers/)
-- 🛠️ **Tools & Libraries:** [tools.md](./resources/tools.md)
-- 📊 **Datasets:** [datasets/](./resources/datasets/)
-- 🔗 **Useful Links:** [links.md](./resources/links.md)
+- 🐛 **Issues & Questions:** [GitHub Issues](https://github.com/MahendraMedapati27/RAG-Tutorial-Playlist/issues)
+- 📧 **Direct Contact:** [your.email@domain.com](mailto:techwithmahendra27@gmail.com)
 
 ---
 
@@ -282,10 +273,9 @@ The organizations and individuals who embrace RAG now will have a significant ad
 
 ## 📈 Stay Connected
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tech_with_mahendra?si=k1dLP5PpkH8dxtt2)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahendramedapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-medapati-429239289/)
 
 ---
 
