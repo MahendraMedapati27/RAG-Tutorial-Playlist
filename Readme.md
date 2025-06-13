@@ -1,9 +1,10 @@
 # 🚀 RAG Mastery Series
 ## *From Beginner to Expert: Your Complete Journey to Retrieval-Augmented Generation*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/rag-mastery-series?style=social)](https://github.com/yourusername/rag-mastery-series](https://github.com/MahendraMedapati27/RAG-Tutorial-Playlist)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://youtube.com/yourchannel](https://www.youtube.com/@tech_with_mahendra)
+[![GitHub stars](https://img.shields.io/github/stars/MahendraMedapati27/RAG-Tutorial-Playlist?style=social)](https://github.com/MahendraMedapati27/RAG-Tutorial-Playlist)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@tech_with_mahendra)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 > **🎬 New Series Launch!** Welcome to the most comprehensive RAG (Retrieval-Augmented Generation) learning journey on the internet. This repository will grow alongside our YouTube series, providing code, resources, and hands-on materials for every video.
 
