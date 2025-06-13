@@ -257,9 +257,8 @@ The answers to these questions will guide your RAG journey and help you identify
 
 ## 🤝 Community & Support
 
-- 💬 **Discord Community:** [Join Here](YOUR_DISCORD_LINK)
 - 🐛 **Issues & Questions:** [GitHub Issues](https://github.com/MahendraMedapati27/RAG-Tutorial-Playlist/issues)
-- 📧 **Direct Contact:** [your.email@domain.com](mailto:techwithmahendra27@gmail.com)
+- 📧 **Direct Contact:** [Email](mailto:techwithmahendra27@gmail.com)
 
 ---
 
