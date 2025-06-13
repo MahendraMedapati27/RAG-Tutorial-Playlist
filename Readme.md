@@ -1,8 +1,8 @@
 # 🚀 RAG Mastery Series
 ## *From Beginner to Expert: Your Complete Journey to Retrieval-Augmented Generation*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/rag-mastery-series?style=social)](https://github.com/yourusername/rag-mastery-series)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://youtube.com/yourchannel)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/rag-mastery-series?style=social)]([https://github.com/yourusername/rag-mastery-series](https://github.com/MahendraMedapati27/RAG-Tutorial-Playlist))
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)]([https://youtube.com/yourchannel](https://www.youtube.com/@tech_with_mahendra))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **🎬 New Series Launch!** Welcome to the most comprehensive RAG (Retrieval-Augmented Generation) learning journey on the internet. This repository will grow alongside our YouTube series, providing code, resources, and hands-on materials for every video.
@@ -101,7 +101,7 @@ As we progress through the series, this repository will expand to include:
 
 ## 🎥 Video Release Schedule
 
-- **Frequency**: New videos every [Your Schedule - e.g., "Tuesday and Friday"]
+- **Frequency**: New videos every [Video will be released in a time gap of 1 day after the release of 1 video]
 - **Duration**: 15-25 minutes per video
 - **Format**: Theory + Hands-on coding + Real-world examples
 - **Code Release**: All code examples released alongside each video
@@ -112,7 +112,7 @@ As we progress through the series, this repository will expand to include:
 - 📺 **YouTube Comments**: Ask questions and share insights
 - 🐛 **GitHub Issues**: Report bugs or request clarifications
 - ⭐ **GitHub Discussions**: Connect with other learners
-- 📧 **Direct Contact**: [your-email@example.com]
+- 📧 **Direct Contact**: [techwithmahendra27@gmail.com]
 
 ### 🎯 Your Learning Path
 
