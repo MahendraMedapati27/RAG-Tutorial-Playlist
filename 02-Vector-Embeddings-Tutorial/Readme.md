@@ -1,6 +1,6 @@
 # 📐 Video #2: Understanding Vector Embeddings - The Mathematical Heart of RAG
 
-## 🎥 [Watch Video](YOUR_VIDEO_LINK) | 📖 [Read Medium Article](YOUR_MEDIUM_LINK) | 📓 [Open Notebook](vector_embeddings.ipynb)
+## 🎥 [Watch Video](YOUR_VIDEO_LINK) | 📖 [Read Medium Article](YOUR_MEDIUM_LINK) | 📓 [Open Notebook](Vector_Embeddings_Tutorial.ipynb)
 
 ### Converting Words into Mathematical Vectors to Unlock Semantic Search
 
