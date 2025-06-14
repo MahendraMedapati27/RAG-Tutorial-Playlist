@@ -144,7 +144,7 @@ The organizations and individuals who embrace RAG now will have a significant ad
 
 ## 🚀 Coming Soon
 
-Watch this space! Video 2 drops soon, and with it, the beginning of your RAG mastery journey.
+Watch this space! Video 3 drops soon, and with it, the beginning of your RAG mastery journey.
 
 ---
 
