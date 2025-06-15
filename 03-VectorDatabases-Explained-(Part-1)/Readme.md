@@ -128,17 +128,17 @@ Need multi-modal capabilities? → Weaviate
 Maximum performance required? → FAISS
 ```
 
-📁 Repository Structure
+## 📁 Repository Structure
+
+```
 video-03a-vector-databases-theory/
+├── README.md                  # This comprehensive guide
+├── chromadb_tutorial.ipynb    # ChromaDB hands-on tutorial
+├── faiss_tutorial.ipynb       # FAISS implementation guide
+└── pinecone_tutorial.ipynb    # Pinecone setup and usage
+```
 
-├── README.md                  # This comprehensive guide  
-├── chromadb_tutorial.ipynb    # Hands-on tutorial for ChromaDB  
-├── faiss_tutorial.ipynb       # Implementation guide for FAISS  
-└── pinecone_tutorial.ipynb    # Setup and usage guide for Pinecone  
-
-🔍 Note:
-This video focuses on the theory and core fundamentals of vector databases.
-The hands-on tutorials provided in the Jupyter notebooks will be covered in upcoming videos in this series. Stay tuned!
+> **Note:** This video focuses on theory and fundamentals. The hands-on tutorials in the Jupyter notebooks will be covered in upcoming videos in the series!
 
 ## 📚 Key Concepts Covered
 
