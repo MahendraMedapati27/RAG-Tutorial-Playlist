@@ -128,6 +128,15 @@ Need multi-modal capabilities? → Weaviate
 Maximum performance required? → FAISS
 ```
 
+📁 Repository Structure
+video-03a-vector-databases-theory/
+├── README.md                  # This comprehensive guide
+├── chromadb_tutorial.ipynb    # ChromaDB hands-on tutorial
+├── faiss_tutorial.ipynb       # FAISS implementation guide
+└── pinecone_tutorial.ipynb    # Pinecone setup and usage
+
+Note: This video focuses on theory and fundamentals. The hands-on tutorials in the Jupyter notebooks will be covered in upcoming videos in the series!
+
 ## 📚 Key Concepts Covered
 
 1. **The Scale Challenge**: Why millions of vectors need specialized storage
