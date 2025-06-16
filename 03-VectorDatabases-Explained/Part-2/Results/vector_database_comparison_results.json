@@ -1,0 +1,264 @@
+{
+  "performance": {
+    "chromadb": {
+      "average_time_ms": 2.5768589973449707,
+      "min_time_ms": 0.0,
+      "max_time_ms": 60.047149658203125,
+      "std_dev_ms": 5.9412194320866485,
+      "total_queries": 100
+    },
+    "pinecone": {
+      "average_time_ms": 326.519615650177,
+      "min_time_ms": 266.6802406311035,
+      "max_time_ms": 1162.2138023376465,
+      "std_dev_ms": 97.17938239516897,
+      "total_queries": 100
+    },
+    "faiss": {
+      "average_time_ms": 0.34240245819091797,
+      "min_time_ms": 0.0,
+      "max_time_ms": 34.2402458190918,
+      "std_dev_ms": 3.4068614433438826,
+      "total_queries": 100
+    }
+  },
+  "accuracy": {
+    "What is artificial intelligence?": {
+      "chromadb": {
+        "documents": [
+          "Artificial intelligence is transforming technology",
+          "Natural language understanding is a key AI challenge",
+          "Computer vision enables machines to understand images"
+        ],
+        "scores": [
+          0.23668915033340454,
+          -0.189530611038208,
+          -0.28487086296081543
+        ]
+      },
+      "pinecone": {
+        "documents": [
+          "Artificial intelligence is transforming technology",
+          "Natural language understanding is a key AI challenge",
+          "Computer vision enables machines to understand images"
+        ],
+        "scores": [
+          0.618620932,
+          0.405506134,
+          0.35802269
+        ]
+      },
+      "faiss": {
+        "documents": [
+          "Artificial intelligence is transforming technology",
+          "Natural language understanding is a key AI challenge",
+          "Computer vision enables machines to understand images"
+        ],
+        "scores": [
+          0.6183446645736694,
+          0.405234694480896,
+          0.3575645089149475
+        ]
+      }
+    },
+    "How do machine learning algorithms work?": {
+      "chromadb": {
+        "documents": [
+          "Computer vision enables machines to understand images",
+          "Deep learning uses neural networks",
+          "Machine learning models require large datasets"
+        ],
+        "scores": [
+          -0.07970666885375977,
+          -0.09111058712005615,
+          -0.1820523738861084
+        ]
+      },
+      "pinecone": {
+        "documents": [
+          "Computer vision enables machines to understand images",
+          "Deep learning uses neural networks",
+          "Machine learning models require large datasets"
+        ],
+        "scores": [
+          0.460386276,
+          0.454892576,
+          0.408456832
+        ]
+      },
+      "faiss": {
+        "documents": [
+          "Computer vision enables machines to understand images",
+          "Deep learning uses neural networks",
+          "Machine learning models require large datasets"
+        ],
+        "scores": [
+          0.46014660596847534,
+          0.4544447660446167,
+          0.4089738726615906
+        ]
+      }
+    },
+    "What are neural networks?": {
+      "chromadb": {
+        "documents": [
+          "Neural networks are inspired by biological neurons",
+          "Deep learning uses neural networks",
+          "Computer vision enables machines to understand images"
+        ],
+        "scores": [
+          0.34411942958831787,
+          0.22025805711746216,
+          -0.2551395893096924
+        ]
+      },
+      "pinecone": {
+        "documents": [
+          "Neural networks are inspired by biological neurons",
+          "Deep learning uses neural networks",
+          "Computer vision enables machines to understand images"
+        ],
+        "scores": [
+          0.672048569,
+          0.60966295,
+          0.371789932
+        ]
+      },
+      "faiss": {
+        "documents": [
+          "Neural networks are inspired by biological neurons",
+          "Deep learning uses neural networks",
+          "Computer vision enables machines to understand images"
+        ],
+        "scores": [
+          0.6720597147941589,
+          0.6101289987564087,
+          0.3724300265312195
+        ]
+      }
+    },
+    "How does data science help businesses?": {
+      "chromadb": {
+        "documents": [
+          "Big data analytics helps businesses make decisions",
+          "Data science combines statistics and programming",
+          "Database management systems store and retrieve data"
+        ],
+        "scores": [
+          0.32138592004776,
+          0.1611320972442627,
+          -0.3755645751953125
+        ]
+      },
+      "pinecone": {
+        "documents": [
+          "Big data analytics helps businesses make decisions",
+          "Data science combines statistics and programming",
+          "Database management systems store and retrieve data"
+        ],
+        "scores": [
+          0.6606341,
+          0.580507278,
+          0.31225872
+        ]
+      },
+      "faiss": {
+        "documents": [
+          "Big data analytics helps businesses make decisions",
+          "Data science combines statistics and programming",
+          "Database management systems store and retrieve data"
+        ],
+        "scores": [
+          0.6606929302215576,
+          0.5805660486221313,
+          0.31221768260002136
+        ]
+      }
+    },
+    "What is computer programming?": {
+      "chromadb": {
+        "documents": [
+          "Software development involves writing code",
+          "Python is a popular programming language",
+          "Data science combines statistics and programming"
+        ],
+        "scores": [
+          0.11550712585449219,
+          0.11521035432815552,
+          0.07788264751434326
+        ]
+      },
+      "pinecone": {
+        "documents": [
+          "Software development involves writing code",
+          "Python is a popular programming language",
+          "Data science combines statistics and programming"
+        ],
+        "scores": [
+          0.557378829,
+          0.557289183,
+          0.538864195
+        ]
+      },
+      "faiss": {
+        "documents": [
+          "Software development involves writing code",
+          "Python is a popular programming language",
+          "Data science combines statistics and programming"
+        ],
+        "scores": [
+          0.5577536821365356,
+          0.5576052665710449,
+          0.5389412641525269
+        ]
+      }
+    }
+  },
+  "features": {
+    "chromadb": {
+      "metadata_support": true,
+      "built_in_embeddings": false,
+      "cloud_managed": false,
+      "auto_scaling": false,
+      "real_time_updates": true,
+      "backup_restore": true,
+      "monitoring": false,
+      "multi_tenancy": true,
+      "cost": "Free",
+      "setup_complexity": "Low",
+      "production_ready": "Medium"
+    },
+    "pinecone": {
+      "metadata_support": true,
+      "built_in_embeddings": false,
+      "cloud_managed": true,
+      "auto_scaling": true,
+      "real_time_updates": true,
+      "backup_restore": true,
+      "monitoring": true,
+      "multi_tenancy": true,
+      "cost": "Paid (~$70/month for 1M vectors)",
+      "setup_complexity": "Medium",
+      "production_ready": "High"
+    },
+    "faiss": {
+      "metadata_support": false,
+      "built_in_embeddings": false,
+      "cloud_managed": false,
+      "auto_scaling": false,
+      "real_time_updates": true,
+      "backup_restore": true,
+      "monitoring": false,
+      "multi_tenancy": false,
+      "cost": "Free",
+      "setup_complexity": "High",
+      "production_ready": "High (with effort)"
+    }
+  },
+  "timestamp": "2025-06-16 19:31:08",
+  "summary": {
+    "total_documents": 20,
+    "embedding_dimension": 384,
+    "test_queries": 5
+  }
+}
