@@ -1,0 +1,7 @@
+python-dotenv
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-groq
+chromadb
+huggingface-hub
+sentence-transformers
