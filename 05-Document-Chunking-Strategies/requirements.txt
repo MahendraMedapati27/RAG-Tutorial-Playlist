@@ -1,0 +1,28 @@
+# Streamlit UI
+streamlit>=1.30.0
+
+# PDF, HTML, CSV, JSON Processing
+PyPDF2>=3.0.1
+pandas>=2.1.0
+beautifulsoup4>=4.12.2
+
+# Text processing
+nltk>=3.8.1
+
+# Vector store and embedding support
+langchain>=0.1.14
+langchain-community>=0.0.32
+langchain-groq>=0.0.3
+# Optional: Include OpenAI if GPT-3.5 is used
+langchain-openai>=0.0.8
+
+# Chroma VectorDB
+chromadb>=0.4.24
+
+# HuggingFace embedding models
+sentence-transformers>=2.2.2
+transformers>=4.40.0
+torch>=2.2.0  # Required by sentence-transformers
+
+# Environment variable support
+python-dotenv>=1.0.1
